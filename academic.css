@@ -96,3 +96,16 @@ img[alt~="center"] {
 code {
   font-family: 'Source Code Pro', monospace;
 }
+
+.text-xl {
+  font-size: 1.25em;
+}
+.text-lg {
+  font-size: 1.125em;
+}
+.text-sm {
+  font-size: .875em;
+}
+.text-xs {
+  font-size: .75em;
+}
