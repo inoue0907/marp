@@ -1,4 +1,7 @@
 # marp
+
+sited from https://github.com/kaisugi/marp-theme-academic
+
 ## usage
 Add following item in the SettingsJSON of VScode
 ```
